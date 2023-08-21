@@ -1,0 +1,57 @@
+body{
+    background-color: lightblue;
+}
+
+
+img {
+    width: 265px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 8px 10px;
+}
+blockquote{
+    width: 250px;
+    margin-left: 320px;
+    margin-right: 320px;
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.improve{
+    margin-bottom: 10px;
+    margin-top: -20px;
+    font-style: normal;
+    margin-right: -1px;
+    position: relative;
+    right: 290px;
+
+}
+
+.scan{
+    color: darkgray;
+    position: relative;
+    right: 290px;
+    margin-top: -25px;
+    font-size: 17px;
+    font-style: bold;
+}
+.qrcode{
+    width: 300px;
+    height: 450px;
+    background-color: aliceblue;
+    margin-left: 500px;
+    margin-right: 200px;
+    border-radius: 8px 10px;
+    box-shadow: beige;
+    
+}
+
+.attribution{
+    background-color: cornflowerblue;
+    width: 200px;
+    border-radius: 5px 8px;
+    position: relative;
+    left: 500px;
+    margin-top: 20px;
+}
